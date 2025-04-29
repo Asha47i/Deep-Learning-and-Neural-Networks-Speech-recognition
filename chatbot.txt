@@ -1,6 +1,0 @@
-tell me a story = "Once upon a time, there was a chatbot who helped many people."
-how are you = "I’m just a chatbot, but I’m doing great! How about you?"
-what is your name = "I’m your friendly chatbot, here to assist you."
-default = "Sorry, I didn’t understand that. Could you rephrase or ask something else?"
-hello = "Hello! How can I assist you today?"
-hi = "Hi there! How can I help you?"
